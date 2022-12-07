@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_menu_menus",
+  "info": {
+    "displayName": "Menu"
+  },
+  "options": {},
+  "attributes": {
+    "Menu": {
+      "type": "string"
+    },
+    "dedede": {
+      "displayName": "xsz",
+      "type": "component",
+      "repeatable": false,
+      "component": "deded.xsz"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "collections",
+  "info": {
+    "singularName": "collection",
+    "pluralName": "collections",
+    "displayName": "Collection"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "produit": {
+      "displayName": "produit",
+      "type": "component",
+      "repeatable": false,
+      "component": "produit.produit"
+    }
+  }
+}
