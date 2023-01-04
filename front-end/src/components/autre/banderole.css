@@ -1,0 +1,23 @@
+.Banderole {
+    width:300%;
+    height:40px;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+    background-color: #211910;
+    color:white;
+    position:fixed;
+    top:90%;
+    z-index: 1;
+    padding: 5px;
+    left:0px;
+    animation: animatedBanderole 5s infinite linear;
+    overflow-x: hidden;
+    }
+
+
+@keyframes animatedBanderole  {
+    0% { margin-left: -50%; }
+    100% { margin-left:    -10%; }
+}
