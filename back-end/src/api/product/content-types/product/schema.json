@@ -27,7 +27,10 @@
       ]
     },
     "prix": {
-      "type": "float"
+      "type": "decimal"
+    },
+    "price": {
+      "type": "decimal"
     },
     "galery": {
       "type": "media",

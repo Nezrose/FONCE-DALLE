@@ -1,0 +1,15 @@
+
+{
+  "kind": "singleType",
+  "collectionName": "straps",
+  "info": {
+    "singularName": "strap",
+    "pluralName": "straps",
+    "displayName": "strapi-server.js"
+  },
+  "options": {
+    "draftAndPublish": true,
+    "comment": ""
+  },
+  "attributes": {}
+}
